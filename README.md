@@ -1,4 +1,1 @@
-BlackJack
-=========
-
-A simple command line black jack game to help me learn Ruby
+A simple BlackJack game I made in order to learn Ruby
